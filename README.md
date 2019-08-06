@@ -2,4 +2,4 @@ This is an example file.
 
 Editing the file which is commited already.
 
-This is going to cause conflict.
+This isnt going to cause conflict.
